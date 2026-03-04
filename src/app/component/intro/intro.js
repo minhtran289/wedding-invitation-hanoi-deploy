@@ -6,7 +6,7 @@ import { useRef } from "react";
 import { introSection, weddingInfo } from "@/app/configs/ui";
 const cx = classNames.bind(styles);
 
-function Intro({ handleOpen, name = "You" }) {
+function Intro({ handleOpen, name = "" }) {
   const ref = useRef(null);
 
   console.log(name);
