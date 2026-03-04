@@ -14,7 +14,7 @@ function Album() {
   const searchParam = useSearchParams();
   const viewRef = useRef();
   const isInView = useInView(viewRef, { once: false });
-  const name = searchParam.get("name") || "You";
+  const name = searchParam.get("name") || "";
   const [isShow, setIsShow] = useState(false);
   const [index, setIndex] = useState(0);
   const router = useRouter();
