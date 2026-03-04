@@ -285,7 +285,7 @@ const metaData = {
   main: {
     title: "Đám Cưới Minh Phượng | Kính Mời",
     graphImage:
-      "https://res.cloudinary.com/dir9qcxah/image/upload/v1772445586/LJF09116_nhqbt7.jpg",
+      "https://res.cloudinary.com/dir9qcxah/image/upload/v1772616841/11_tkjge6.jpg",
   },
 
   wish: {
