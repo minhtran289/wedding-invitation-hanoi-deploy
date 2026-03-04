@@ -15,7 +15,7 @@ function Wish({}) {
   const [wishes, setWishes] = useState([]);
   const searchParams = useSearchParams();
 
-  const name = searchParams.get("name") || "You";
+  const name = searchParams.get("name") || "";
 
   useEffect(() => {
     function compareByDate(a, b) {
