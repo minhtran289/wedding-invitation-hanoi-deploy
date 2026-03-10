@@ -27,7 +27,7 @@ const weddingInfo = [
     time: {
       date: "22/03",
       year: "2026",
-      time: "11:00",
+      time: "11:30",
       full: "Chủ nhật, Ngày 22 Tháng 03 năm 2026",
     },
     address: "Sảnh 1 - Promes Center",
